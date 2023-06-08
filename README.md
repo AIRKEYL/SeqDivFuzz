@@ -12,7 +12,7 @@ We make experimental evaluation of effectiveness and efficiency of SeqDivFuzz wi
 
 The overall structure is shown in the figure below:
 
-![image](https://github.com/ARMABLE/InSkipFuzz/blob/main/images/trend.png?raw=true)
+![image](https://raw.githubusercontent.com/AIRKEYL/SeqDivFuzz/main/images/overview.png)
 
 
 
@@ -233,7 +233,7 @@ python enjoy.py
 
 The trend of Crash and Test number of SeqDivFuzz and baseline(MDPFuzz):
 
-![image](https://github.com/ARMABLE/InSkipFuzz/blob/main/images/trend.png?raw=true)
+![image](https://raw.githubusercontent.com/AIRKEYL/SeqDivFuzz/main/images/trend.png)
 
 
 
